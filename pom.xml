@@ -159,7 +159,6 @@
 			</plugin>
 		</plugins>
 	</build>
-
 	<developers>
 		<developer>
 			<name>Juan Pablo Jiménez Ramos</name>
@@ -172,5 +171,4 @@
 			</roles>
 		</developer>
 	</developers>
-
 </project>
