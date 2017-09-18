@@ -10,7 +10,8 @@ import org.junit.runners.Suite.SuiteClasses;
 @SuiteClasses({
     C21Test.class,
     C22Test.class,
-    C11Test.class
+    C11Test.class,
+    C12Test.class
 })
 public class AllControlGitJunitTests {
 
