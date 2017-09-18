@@ -11,7 +11,8 @@ import org.junit.runners.Suite.SuiteClasses;
     C22Test.class,
     C31Test.class,
     C11Test.class,
-    C12Test.class
+    C12Test.class,
+    C32Test.class
 })
 public class AllControlGitJunitTests {
 
